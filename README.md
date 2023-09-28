@@ -15,5 +15,5 @@ Creating a new enviorment for the project:-
 ```
 conda create -p myenv python==3.11.4 -y
 ```
-why is this not showing
+
 
